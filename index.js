@@ -1,2 +1,2 @@
-console.log( 'Hola git fiuuuu' );
+console.log( 'Hola git' );
 console.log( 'Todo bien ? ' );
